@@ -3,8 +3,8 @@ import React, { useState, useEffect } from 'react';
 
 import { Container, Content, Graph, Buttons, Time } from './styles';
 
-import resetArray from '../../utils/functions/resetArray';
-import copyArray from '../../utils/functions/copyArray';
+import resetArray from '../../utils/resetArray';
+import copyArray from '../../utils/copyArray';
 
 import bubbleSort from '../../algorithms/bubbleSort';
 
